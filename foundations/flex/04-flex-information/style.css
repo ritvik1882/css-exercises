@@ -1,3 +1,22 @@
+.title, .info {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+
+.plants-container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.info {
+  max-width: 200px;
+}
+
 body {
   font-family: 'Courier New', Courier, monospace;
 }
